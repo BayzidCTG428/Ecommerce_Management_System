@@ -1,1 +1,1 @@
-# General_Store_Management_System
+# Ecommerce_Management_System
